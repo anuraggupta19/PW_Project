@@ -1,7 +1,9 @@
 # AirBnB Data Analysis Project
 
-![airbnb_logo](https://github.com/anuraggupta19/PW_Project/assets/86962269/8d1806ca-31ca-4f3f-a7a3-1ec464a622ed)
+<center>
+![airbnb_logo (1)](https://github.com/anuraggupta19/PW_Project/assets/86962269/dd91cf2c-6a2f-4551-a6b8-3f6d242daf48)
 
+</center>
 
 # 📝Problem Statement
 
