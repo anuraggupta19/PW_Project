@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://pluspng.com/img-png/airbnb-logo-png-airbnb-logo-1600.png">
+  <img src="https://pluspng.com/img-png/airbnb-logo-png-airbnb-logo-1600.png" width= "320" height="240">
 </p>
 
 
